@@ -61,6 +61,8 @@ At Kaedim, every team member is:
 
 In summary, we hire for passion, work ethic, discipline and autonomy. We believe that everything else can be learned.
 
+The problems we are solving are hard, and we want people who want to solve hard problems.
+
 We value speed of execution over perfection. Products are never perfect when they are first released. We iterate daily to reach there.
 
 You will not be micromanaged. You will have tons of freedom, and you will own your work. Extreme ownership and accountability.

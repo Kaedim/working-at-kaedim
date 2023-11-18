@@ -4,9 +4,18 @@ Welcome!
 
 If you are considering applying to Kaedim and want to learn more, you’re in the right place.
 
-We are hiring for a lot of roles: https://wellfound.com/company/kaedim/jobs 
+## How to apply
 
-Priority: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer
+We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer
+
+You can apply directly through [Wellfound](https://www.notion.so/Working-at-Kaedim-ec5cf41608aa455d95823c4626a0cb41?pvs=21) OR by emailing recruiting@kaedim3d.com with your CV and brief answers to the following questions:
+
+- Which position do you want to interview for?
+- What have you done in the past that can be considered as evidence of exceptional ability?
+- Tell us about a time that you most successfully hacked some computer/non-computer system to your advantage.
+- Why is what we are building interesting to you?
+- Are you currently based out of San Francisco or London?
+- Do you want to work in the office 5 days a week?
 
 ## What do we do
 
@@ -42,7 +51,7 @@ Everyone comes to the office 5+ days a week. If you prefer working in a remote o
 
 ## Who we are looking for
 
-- Engineering only. Minimum 2 years of experience writing professional production-level code in your respective stack. If you are still at uni or a recent graduate personal projects that are impressive count too. Equivalent for design.
+- Engineering only. Minimum 2 years of experience writing professional production-level code in your respective stack. If you are still at uni or a recent graduate, personal projects that are impressive count too. Equivalent for design.
 - Strong culture fit (see below). High energy, true owner, cares deeply, goes above and beyond.
 - Big plus: Familiarity with Blender or other 3D modelling software.
 - High interest/passion for the intersection of art and technology
@@ -59,7 +68,7 @@ At Kaedim, every team member is:
 - Humble
 - Autonomous and accountable
 
-In summary, we hire for passion, work ethic, discipline and autonomy. We believe that everything else can be learned.
+In summary, we hire for passion, work ethic, discipline and autonomy. We believe that everything else can be learned. 
 
 The problems we are solving are hard, and we want people who want to solve hard problems.
 

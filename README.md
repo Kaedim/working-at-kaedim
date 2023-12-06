@@ -8,7 +8,7 @@ If you are considering applying to Kaedim and want to learn more, you’re in th
 
 We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer
 
-You can apply directly through [Wellfound](https://www.notion.so/Working-at-Kaedim-ec5cf41608aa455d95823c4626a0cb41?pvs=21) OR by emailing recruiting@kaedim3d.com with your CV and brief answers to the following questions:
+You can apply directly through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV and brief answers to the following questions:
 
 - Which position do you want to interview for?
 - What have you done in the past that can be considered as evidence of exceptional ability?

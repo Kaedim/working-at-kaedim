@@ -6,7 +6,7 @@ If you are considering applying to Kaedim and want to learn more, you’re in th
 
 ## How to apply
 
-We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer, Customer Success Manager, Recruiter, Executive Assistant, Marketing and Content Creator
+We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer, Customer Success Manager, Recruiter, Executive Assistant, Marketing and Content Creator, 3D Artist
 
 You can apply directly through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, GitHub/Portfolio link, and brief answers to the following questions:
 
@@ -16,6 +16,8 @@ You can apply directly through [Wellfound](https://wellfound.com/company/kaedim/
 - Why is what we are building interesting to you?
 - Where are you currently based?
 - Do you want to work in the office 5 days a week?
+
+If you are a 3D Artist interested in joining our global team of 3D Artists, please get in touch with recruiting3d@kaedim.com for more information about the hiring process.
 
 ## What do we do
 

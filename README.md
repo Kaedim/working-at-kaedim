@@ -6,9 +6,9 @@ If you are considering applying to Kaedim and want to learn more, you’re in th
 
 ## How to apply
 
-We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer, Customer Success Manager, Recruiter, Executive Assistant, Marketing and Content Creator, 3D Artist
+We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer, Customer Success Manager, 3D Artist
 
-You can apply directly through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, GitHub/Portfolio link, and brief answers to the following questions:
+You can apply through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, GitHub/portfolio link, and brief answers to the following questions:
 
 - Which position do you want to interview for?
 - What have you done in the past that can be considered as evidence of exceptional ability?
@@ -17,11 +17,11 @@ You can apply directly through [Wellfound](https://wellfound.com/company/kaedim/
 - Where are you currently based?
 - Do you want to work in the office 5 days a week?
 
-If you are a 3D Artist interested in joining our global team of 3D Artists, please get in touch with recruiting3d@kaedim.com for more information about the hiring process.
+If you are a 3D Artist interested in joining our **global, remote** team of 3D Artists, please contact recruiting3d@kaedim.com for more information about the hiring process. All other roles are 5 days in the office.
 
 ## What do we do
 
-We are an AI startup building Machine Learning algorithms to turn images into digital 3D models. We have the most accurate, game-ready 2d → 3d asset generation pipeline by using our AI and in-house art team. Currently, we are offering a 10x speed up to 3D asset creation pipelines of game developers, working with partners like Netflix, Voodoo, Upland, Azra Games.
+We are an AI startup building Machine Learning algorithms to turn images into digital 3D models. Our 3D reconstructions and team of expert 3D artists combine to deliver production-ready 3D models 10x faster. We have the most accurate, game-ready 2D to 3D asset generation pipeline, and currently, we are supporting the 3D asset creation pipelines of 250+ companies, including some of the biggest game developers, e-commerce and product design companies.
 
 ## Vision and mission
 
@@ -31,15 +31,15 @@ Our team is developing the next generation of tools for digital creators to acce
 
 ## Why does this matter
 
-- Digital 3D content is the future. Everything **slowly** turns to 3D with games being the pioneers. Then product design and architecture have been using 3D modelling for decades, e-commerce and 3D printing followed and the list goes on. We are building the future. We want to change **slowly** into **rapidly**.
-- At the same time, producing 3D content is one of a business's most expensive activities. It is really time-consuming, very manual, and requires expensive software with steep learning curves. We are going to solve this problem.
+- Digital 3D content is the future. All online content **slowly** turns to 3D with games being the pioneers. Then product design and architecture have been using 3D modelling for decades, e-commerce and 3D printing followed and the list goes on. We are building the future. We want to change **slowly** into **rapidly**.
+- At the same time, producing 3D content is one of the most expensive activities for a business. It is really time-consuming, 100% manual, and requires expensive software with steep learning curves. We are going to solve this problem.
 - Fundamentals: 3D content creation is unscalable, and current processes are very old, with huge room for optimization. Using AI to solve this problem propels us even further.
 - Gaming is bigger than all the other entertainment sectors combined and growing at a staggering pace.
 - In short, we are empowering creators to focus on what matters most, do more with less, and save time to invest in quality. We will be a unicorn helping everyone from indie game devs, to XBOX and Amazon realise this new potential. That is impact!
 
 ## Results so far
 
-- 250+ businesses onboard (game devs, product designers, e-commerce and 3D printing companies, etc)
+- 250+ businesses onboard (game devs, product designers, e-commerce and 3D printing companies, etc.)
 - Net profitable within 12 months of our original launch
 - Leaders of the field with the only product in the market that generates “ready-to-use” 3D models
 - Backed by the best in the world: a16z games https://a16z.com/announcement/investing-in-kaedim/ 
@@ -57,7 +57,7 @@ Everyone comes to the office 5+ days a week. If you prefer working in a remote o
 - Engineering: minimum 2 years of experience writing professional production-level code in your respective stack. If you are still at university or a recent graduate, impressive personal projects count too. Equivalent for non-engineering roles.
 - Strong culture fit (see below). High energy, true owner, cares deeply, goes above and beyond.
 - Big plus: Familiarity with Blender, other 3D modelling software, or game development.
-- High interest/passion for the intersection of art and technology
+- High interest/passion for the intersection of art and technology.
 - You do not need to be a gamer.
 
 ## Culture
@@ -116,10 +116,9 @@ Available for the US and UK for recent graduates and candidates who are already 
 
 1. (Screen)
 2. Engineering: online coding test on Coderbyte. Non-engineering: take-home assignment.
-3. Engineering: live coding session on Google Meet with team members from the team you are applying to join (SWE/MLE). Non-engineering: interview with relevant team members.
+3. Engineering: live coding and problem-solving session on Google Meet with team members from the team you are applying to join (SWE/MLE). Non-engineering: interview to review your take-home with relevant team members.
 4. All roles: 30' interview with CEO.
-5. All roles: problem-solving session.
-6. All roles: Day in the Office. A day in the office working with us on a challenge. At the end of the day, you’ll present your solution and thought process to the whole team and get to know the rest of the team members from other departments.
+6. All roles: Day in the Office. A day in the office working alongside our team. At the end of the day, you’ll present your solution and thought process to the whole team and get to know the rest of the team members from other departments.
 7. Offer or feedback within 48 hours.
 
 We will move quickly and will do our best not to waste your time.
@@ -133,7 +132,7 @@ Generally speaking, teams pick whatever tools work for them to achieve the resul
 - Code: GitHub
 - Communications: Slack, Discord, Email
 - Documentation: Notion, GDocs
-- Design: Figma, Illustrator
+- Design: Figma
 - 3D: Blender
 
 ## Financial position
@@ -147,9 +146,9 @@ Post Series A. Backed by Tier 1 San Francisco funds (a16z, Pioneer) and several 
 
 ## What's next?
 
-Apply: https://wellfound.com/company/kaedim/jobs 
+Apply: recruiting@kaedim3d.com OR https://wellfound.com/company/kaedim/jobs
 
-Questions: [r](mailto:careers@streamlabs.com)ecruiting@kaedim3d.com
+Questions: recruiting@kaedim3d.com
 
 ## More details
 
@@ -176,3 +175,11 @@ What You Do Is Who You Are by Ben Horowitz
 Deep Work by Cal Newport
 
 Paul Graham essays
+
+## Podcasts
+
+Sterling Snow X Mark Cranney: https://www.youtube.com/watch?v=7g3rLSOAvlM
+
+Val Scholz: How Revolut Acquired Their First 10M Users: Tips, Tactics & Strategies: https://www.youtube.com/watch?v=4N1e48gDbAs
+
+Hiring and Culture with Patrick and John Collison and Ben Silbermann: https://www.youtube.com/watch?v=kTS7OIAMunM

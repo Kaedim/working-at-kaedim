@@ -117,7 +117,8 @@ Available for the US and UK for recent graduates and candidates who are already 
 1. (Screen)
 2. Engineering: online coding test on Coderbyte. Non-engineering: take-home assignment.
 3. Engineering: live coding and problem-solving session on Google Meet with team members from the team you are applying to join (SWE/MLE). Non-engineering: interview to review your take-home with relevant team members.
-4. All roles: 30' interview with CEO.
+4. All roles: team member interview, getting to know one of the Kaedim folks that you'd be working closely with.
+5. All roles: 30' interview with CEO.
 6. All roles: Day in the Office. A day in the office working alongside our team. At the end of the day, you’ll present your solution and thought process to the whole team and get to know the rest of the team members from other departments.
 7. Offer or feedback within 48 hours.
 

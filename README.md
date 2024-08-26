@@ -10,12 +10,12 @@ We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learnin
 
 You can apply through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, GitHub/portfolio link, and brief answers to the following questions:
 
-- Which position do you want to interview for?
+- Which position do you want to interview for and what is your strongest tech stack currently?
 - What have you done in the past that can be considered as evidence of exceptional ability?
 - Tell us about a time that you most successfully hacked some computer/non-computer system to your advantage.
 - Why is what we are building interesting to you?
 - Where are you currently based?
-- Do you want to work in the office 5 days a week?
+- Do you want to work hybrid or 5 days in the office? Why?
 
 If you are a 3D Artist interested in joining our **global, remote** team of 3D Artists, please contact recruiting3d@kaedim.com for more information about the hiring process. All other roles are 5 days in the office.
 

@@ -8,14 +8,7 @@ If you are considering applying to Kaedim and want to learn more, you’re in th
 
 We are hiring for a lot of roles. Priorities: Software Engineer, Machine Learning Engineer, UI/UX Designer, Customer Support Engineer, Customer Success Manager, 3D Artist
 
-You can apply through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, GitHub/portfolio link, and brief answers to the following questions:
-
-- Which position do you want to interview for and what is your strongest tech stack currently?
-- What have you done in the past that can be considered as evidence of exceptional ability?
-- Tell us about a time that you most successfully hacked some computer/non-computer system to your advantage.
-- Why is what we are building interesting to you?
-- Where are you currently based?
-- Do you want to work hybrid or 5 days in the office? Why?
+You can apply through [Wellfound](https://wellfound.com/company/kaedim/jobs) OR by emailing recruiting@kaedim3d.com with your CV, LinkedIn link, GitHub/portfolio link, and one paragraph of a cover letter.
 
 If you are a 3D Artist interested in joining our **global, remote** team of 3D Artists, please contact recruiting3d@kaedim.com for more information about the hiring process. All other roles are 5 days in the office.
 
@@ -49,6 +42,7 @@ Our team is developing the next generation of tools for digital creators to acce
 
 - San Francisco, US
 - London, UK
+- Singapore
 
 Everyone comes to the office 5+ days a week. If you prefer working in a remote or hybrid setting, we would not recommend applying.
 
@@ -114,7 +108,7 @@ Available for the US and UK for recent graduates and candidates who are already 
 
 ## Recruiting process
 
-1. (Screen)
+1. Virtual video interviewing.
 2. Engineering: online coding test on Coderbyte. Non-engineering: take-home assignment.
 3. Engineering: live coding and problem-solving session on Google Meet with team members from the team you are applying to join (SWE/MLE). Non-engineering: interview to review your take-home with relevant team members.
 4. All roles: team member interview, getting to know one of the Kaedim folks that you'd be working closely with.

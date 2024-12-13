@@ -109,14 +109,19 @@ Available for the US and UK for recent graduates and candidates who are already 
 ## Recruiting process
 
 Step 1: Virtual video interviewing. (all roles)
+
 Step 2:
 - Engineering: Leetcode online test on Coderbyte. (optional)
 - Non-engineering: Take-home assignment.
+
 Step 3:
 - Engineering: Live coding and problem-solving session on Google Meet with team members from the team you are applying to join (SWE/MLE).
 - Non-engineering: Session to review your take-home with relevant team members.
+
 Step 4: 30' interview with CEO. (all roles)
+
 Step 5: Day in the Office. A day in the office working alongside our team. At the end of the day, you’ll present your solution and thought process to the whole team and get to know the rest of the team members from other departments. (all roles)
+
 Step 6: Offer or feedback within 48 hours.
 
 We will move quickly and will do our best not to waste your time.

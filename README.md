@@ -110,7 +110,7 @@ Available for the US and UK for recent graduates and candidates who are already 
 
 Step 1: Virtual video interviewing. (all roles, except referrals)
 
-Step 2: Quick 15' chat with one of our team members to do introductions.
+Step 2: Quick 15″ chat with one of our team members to do introductions.
 
 Step 3:
 - Engineering: Leetcode online test on Coderbyte. (optional)
@@ -120,7 +120,7 @@ Step 4:
 - Engineering: Live coding and problem-solving session on Google Meet with team members from the team you are applying to join (SWE/MLE).
 - Non-engineering: Session to review your take-home with relevant team members.
 
-Step 5: 30' interview with CEO. (all roles)
+Step 5: 30″ interview with CEO. (all roles)
 
 Step 6: Day in the Office. A day in the office working alongside our team. At the end of the day, you’ll present your solution and thought process to the whole team and get to know the rest of the team members from other departments. (all roles)
 

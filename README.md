@@ -104,7 +104,7 @@ Disclaimer: there will be little to no mentorship, you’ll have to find your ow
 
 ## Visa sponsorship
 
-Available for the US and UK for recent graduates and candidates who are already based in those countries. We will do our best to support you.
+Available for the US and UK candidates who are already based in those countries. We will do our best to support you.
 
 ## Recruiting process
 
